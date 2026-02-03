@@ -58,7 +58,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/claudecode.git
+git clone https://github.com/ralfs66/claudecode.git
 cd claudecode
 ```
 
