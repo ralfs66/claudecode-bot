@@ -6,6 +6,10 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![Anthropic Claude](https://img.shields.io/badge/AI-Claude%204.5-blue)](https://www.anthropic.com/)
 
+## 🎥 Demo
+
+Watch it in action: **[YouTube Demo](https://www.youtube.com/shorts/SBsAF9SyHyc)** - See voice commands controlling Windows remotely!
+
 ## ✨ Features
 
 ### 🎯 Core Capabilities
